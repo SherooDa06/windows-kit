@@ -1,0 +1,51 @@
+{
+  "originHash" : "6f5b15550760353dfb79588d2fdaaafdad195be9ad57dcbc8f98af692d659874",
+  "pins" : [
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0b4376902cfc3901c496a79f2cb70f1ffd583fff"
+      }
+    },
+    {
+      "identity" : "swift-binary-parsing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-binary-parsing",
+      "state" : {
+        "branch" : "main",
+        "revision" : "223d08d5e8886c4e844dfc9d9a168b466cbc0cb6"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
+        "version" : "602.0.0"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system",
+      "state" : {
+        "branch" : "main",
+        "revision" : "71db29e931dcb293eac37160892d97fb30affc0c"
+      }
+    }
+  ],
+  "version" : 3
+}
