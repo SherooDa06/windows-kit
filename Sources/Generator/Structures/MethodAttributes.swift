@@ -25,8 +25,10 @@ struct MethodAttributes {
         static let hideBySig = Self(rawValue: 0x0080)
     }
 
-    // I don't know what this enum should be calles, so I'm just calling this SlotInit for now
-    enum SlotInit: UInt16 {
+    // I don't know what this enum should be called
+    // So I'm calling it 'VTableSlotAllocation'
+    // Since this slot is responsible for how a slot is allocated for a method
+    enum VTableSlotAllocation: UInt16 {
         case reuseSlot = 0x0000
         case newSlot = 0x0100
     }
